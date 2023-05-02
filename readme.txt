@@ -11,3 +11,5 @@ use
 python test_model.py --model_path model-resnet50-final.h5 --image_folder_path ./DATA/test --output_file_path output.txt
 
 to run program
+
+model is to big can not put on github
