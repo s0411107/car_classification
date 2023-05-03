@@ -1,3 +1,5 @@
+model is to big can not put on github
+
 you may need to check setting and install some package
 python version 3.10.0
 pip install tensorflow
@@ -12,4 +14,4 @@ python test_model.py --model_path model-resnet50-final.h5 --image_folder_path ./
 
 to run program
 
-model is to big can not put on github
+
